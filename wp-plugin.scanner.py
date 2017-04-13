@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-#Wordpress Plugin Scanner By MR.IMAN ( Guardiran Security Team )
-#Tel : @l0calr00t
+#Wordpress Plugin Scanner By DeMoN ( Guardiran Security Team )
+#insta:mr.faithful
 #Site : Guardiran.org
 
 #About Team :
@@ -73,10 +73,10 @@ __________.__               .__
         \/     \/     \/     \/     \/     \/                     
 
  ==================================
- # Tools By : DR.IMAN             #
+ # Tools By : DeMoN               #
  # Team : Guardiran Security Team #
  # Site : Guardiran.org           #
- # Tel : @l0calr00t               #
+ # insta:mr.faithful              #
  ==================================
 
 '''
